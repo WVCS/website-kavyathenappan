@@ -1,3 +1,11 @@
-body {
-
+img {
+width: 200px;
+border: pink 2px solid; 
+}
+h2 {
+  color: Pink;
+  text-decoration: wavy 3px purple underline
+}
+h2: hover {
+  text-shadow: 0 0 23px blue;
 }

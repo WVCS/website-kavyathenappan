@@ -48,6 +48,12 @@ h2:hover {
 .iframe-container {
   display: flex;
   justify-content: center; 
-  gap: 30px; 
+  gap: 30px;        
+  flex-wrap: wrap; 
   margin-top: 20px;
+  width: 100%;
+}
+
+.scratch-row {
+  margin-top: 40px; 
 }
